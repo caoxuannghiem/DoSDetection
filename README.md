@@ -26,6 +26,7 @@ Tested Environment:
 
 **Setup Instructions**:
 1. **On Ubuntu**:
+
 $ sudo apt update
 
 $ sudo apt install python3-pip

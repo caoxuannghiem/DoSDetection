@@ -25,14 +25,14 @@ Requirements:
 - Network packet capturing tool (like Npcap on Windows or libpcap on Linux)
 
 Setup Instructions:
-    1. **On Ubuntu**:
-        $ sudo apt update
-        $ sudo apt install python3-pip
-        $ pip3 install scapy
-				
-    3. **For GNS3 Simulation**:
-        - Configure network nodes and connect a Linux VM (like Ubuntu) for testing.
-        - Use the script to monitor and detect potential DoS attacks on simulated networks.
+1. **On Ubuntu**:
+$ sudo apt update
+$ sudo apt install python3-pip
+$ pip3 install scapy
+
+3. **For GNS3 Simulation**:
+- Configure network nodes and connect a Linux VM (like Ubuntu) for testing.
+- Use the script to monitor and detect potential DoS attacks on simulated networks.
         
 Usage:
     Run the script with root or administrator privileges for network packet sniffing:

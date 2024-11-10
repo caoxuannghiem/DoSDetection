@@ -2,6 +2,7 @@ DoS Detection Software (Python)
 ==================================================================
                       DoS Detection Software
 ==================================================================
+
 Description:
     This Python script is designed to detect potential Denial of Service (DoS) attacks 
     by monitoring network traffic in real-time using the Scapy library. It tracks various 
@@ -25,12 +26,12 @@ Requirements:
     - Network packet capturing tool (like Npcap on Windows or libpcap on Linux)
 
 Setup Instructions:
-    1. On Ubuntu:
+    1. **On Ubuntu**:
         $ sudo apt update
         $ sudo apt install python3-pip
         $ pip3 install scapy
         
-    3. For GNS3 Simulation:
+    3. **For GNS3 Simulation**:
         - Configure network nodes and connect a Linux VM (like Ubuntu) for testing.
         - Use the script to monitor and detect potential DoS attacks on simulated networks.
         

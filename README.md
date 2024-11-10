@@ -33,7 +33,7 @@ $ sudo apt install python3-pip
 
 $ pip3 install scapy
 
-3. **For GNS3 Simulation**:
+2. **For GNS3 Simulation**:
 - Configure network nodes and connect a Linux VM (like Ubuntu) for testing.
 - Use the script to monitor and detect potential DoS attacks on simulated networks.
         

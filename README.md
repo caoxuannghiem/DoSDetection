@@ -24,10 +24,12 @@ Tested Environment:
    - scapy library
    - Network packet capturing tool (like Npcap on Windows or libpcap on Linux)
 
-Setup Instructions:
+**Setup Instructions**:
 1. **On Ubuntu**:
 $ sudo apt update
+
 $ sudo apt install python3-pip
+
 $ pip3 install scapy
 
 3. **For GNS3 Simulation**:

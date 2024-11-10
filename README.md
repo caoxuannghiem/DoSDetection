@@ -19,10 +19,10 @@ Tested Environment:
    - Required Packages:
      * scapy
      * curses (pre-installed on most Linux systems)
-Requirements:
-- Python 3.x
-- scapy library
-- Network packet capturing tool (like Npcap on Windows or libpcap on Linux)
+3. Requirements:
+   - Python 3.x
+   - scapy library
+   - Network packet capturing tool (like Npcap on Windows or libpcap on Linux)
 
 Setup Instructions:
 1. **On Ubuntu**:
